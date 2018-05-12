@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/900
     wikipedia: http://en.wikipedia.org/wiki/Jean-Baptiste-Antoine-Marcelin%2C_Baron_de_Marbot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36911#M-moires-du-g-n-ral-baron-de-Marbot--3-3-
 gutenberg_bookshelf:
 - FR Biographie, Mémoires, Journal intime, Correspondance
 - FR Guerres
